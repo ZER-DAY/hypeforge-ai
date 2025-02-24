@@ -34,10 +34,10 @@ export const Hero = () => {
         <div className=" md:flex items-center">
           <div className="md:w-[478px]">
             <div className="pill">
-              الأصيل لخدمات الذكاء الاصطناعي والتسويق الرقمي
+              هايبر فورج لخدمات الذكاء الاصطناعي والتسويق الرقمي
             </div>
             <h1 className="h2-style leading-relaxed">
-              فضاء رقمي آمن ومفيد يتوائم مع تطلعاتنا وقيمنا الأصيلة
+              فضاء رقمي آمن ومفيد يتوائم مع تطلعاتنا وقيمنا هايبر فورجة
             </h1>
             <p className="paragraph leading-relaxed">
               نحن شركة متخصصة في التسويق الرقمي والاستثمار، ونعمل على تطوير

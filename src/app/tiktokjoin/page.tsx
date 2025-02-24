@@ -42,7 +42,7 @@ const TiktokInjouPage = () => {
         </p>
 
         <img
-          src="/serv.png"
+          src="/"
           alt="شرح الطريقة الأولى"
           className="w-[240px] max-w-lg mx-auto rounded-lg mb-4"
         />
