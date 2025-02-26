@@ -85,7 +85,7 @@ export const Footer = () => {
           <PinterestIcon className="transform transition-all duration-200 hover:scale-110 hover:text-white cursor-pointer" />
           <YoutubeIcon className="transform transition-all duration-200 hover:scale-110 hover:text-white cursor-pointer" />
         </div> */}
-        <p className="text-center text-pretty">&copy; alasil</p>
+        <p className="text-center text-pretty">&copy; hype forge</p>
       </div>
     </footer>
   );

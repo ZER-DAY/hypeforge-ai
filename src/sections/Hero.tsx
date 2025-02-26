@@ -1,7 +1,7 @@
 "use client";
 import ArrowRight from "@/assets/arrow-right.svg";
 import cogImage from "@/assets/cog.png";
-import logoAlasel from "@/assets/Logoasel.png";
+import logoAlasel from "@/assets/asq.png";
 import cyclinderImage from "@/assets/cylinder.png";
 import noodleImage from "@/assets/noodle.png";
 import { motion, useScroll, useTransform } from "framer-motion";
@@ -34,10 +34,10 @@ export const Hero = () => {
         <div className=" md:flex items-center">
           <div className="md:w-[478px]">
             <div className="pill">
-              هايبر فورج لخدمات الذكاء الاصطناعي والتسويق الرقمي
+              هايب فورج لخدمات الذكاء الاصطناعي والتسويق الرقمي
             </div>
             <h1 className="h2-style leading-relaxed">
-              فضاء رقمي آمن ومفيد يتوائم مع تطلعاتنا وقيمنا هايبر فورجة
+              فضاء رقمي آمن ومفيد يتوائم مع تطلعاتنا وقيمنا هايب فورجة
             </h1>
             <p className="paragraph leading-relaxed">
               نحن شركة متخصصة في التسويق الرقمي والاستثمار، ونعمل على تطوير

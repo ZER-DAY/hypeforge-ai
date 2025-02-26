@@ -151,7 +151,7 @@ const TiktokInjouPage = () => {
           <video
             controls
             className="w-full rounded-lg shadow-lg mb-6"
-            src="/alasil.mp4"
+            src="/hype forge.mp4"
           ></video>
         </div>
       </div>

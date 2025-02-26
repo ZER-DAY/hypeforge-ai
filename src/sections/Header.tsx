@@ -2,7 +2,7 @@
 import { motion, useAnimation } from "framer-motion";
 import Link from "next/link";
 import ArrowRight from "@/assets/arrow-right.svg";
-import logoAlasel from "@/assets/Logoasel.png";
+import logoAlasel from "@/assets/asq.png";
 import Image from "next/image";
 import MenuIcon from "@/assets/menu.svg";
 import { useState } from "react"; // استيراد useState
@@ -24,7 +24,7 @@ export const Header = () => {
       {/* الجزء العلوي من الهيدر */}
       <div className="flex justify-center items-center py-2 bg-[#1A1A1A] text-white text-sm gap-2">
         <p className="text-white/80 hidden md:block">
-          إنطلق نحو مستقبل مشرق مع وكالة هايبر فورج، حيث نبني معًا خطواتك الأولى
+          إنطلق نحو مستقبل مشرق مع وكالة هايب فورج، حيث نبني معًا خطواتك الأولى
           نحو النجاح والتطور
         </p>
         <Link href="join-our-agency">
@@ -65,12 +65,12 @@ export const Header = () => {
             <nav className="hidden md:flex gap-6 text-white/60 items-center">
               <Link href="/">الرئيسية</Link>
               <Link href="/tiktok">تيك توك</Link>
-              <Link href="/aboutus">من نحن</Link>
+              <Link href="/about-us">من نحن</Link>
               <Link href="/contact">اتصل بنا</Link>
               <div className="mt-3 flex justify-center items-center space-x-4 space-x-reverse">
                 {/* زر واتساب */}
                 <a
-                  href="https://wa.me/+96879445665"
+                  href="https://wa.me/+79964921960"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center bg-green-600 text-white px-4 py-2 rounded-lg shadow-md hover:bg-green-600 transition"
