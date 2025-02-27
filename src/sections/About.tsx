@@ -14,7 +14,7 @@ export default function About() {
   const teamMembers = [
     {
       name: "حاجي تاراسوف",
-      position: "مدير تنفيذي في روسيا ورابطة الدول المستقلة ",
+      position: "مدير تنفيذي في  رابطة الدول المستقلة ",
       image: "/a2.jpg",
     },
     {
