@@ -1,9 +1,6 @@
 "use client";
 import ArrowRight from "@/assets/arrow-right.svg";
-import cogImage from "@/assets/cog.png";
 import logoAlasel from "@/assets/asq.png";
-import cyclinderImage from "@/assets/cylinder.png";
-import noodleImage from "@/assets/noodle.png";
 import { motion, useScroll, useTransform } from "framer-motion";
 import { useRef, useEffect, useState } from "react";
 import Link from "next/link"; // استبدل import من lucide-react بـ next/link
