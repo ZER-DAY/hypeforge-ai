@@ -41,7 +41,7 @@ const Benefits = () => {
       <Noise />
 
       <h1 className="text-5xl font-bold text-center h2-style">
-        وكالة هايب فورج
+        وكالة برايم لايڤ
       </h1>
       <p className="text-xl text-center">
         مميزات مذهلة تجعلك لا تحتاج إلى البحث عن أي جهة أخرى.
