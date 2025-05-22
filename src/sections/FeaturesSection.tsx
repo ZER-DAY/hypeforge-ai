@@ -62,7 +62,7 @@ const FeaturesSection = () => {
       <div className="relative z-10">
         <div className="container mx-auto px-4">
           <h2 className="text-cyan-400 text-2xl font-bold text-center  mb-4">
-            مزايا الانضمام لوكالة برايم لايڤ
+            مزايا الانضمام لوكالة أتون لايڤ
           </h2>
           <p className="text-center text-white mb-8">
             نهدف إلى تقديم فريق إبداعي ومحتوى هادف يساهم في التأثير الإيجابي على

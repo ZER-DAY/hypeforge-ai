@@ -31,10 +31,10 @@ export const Hero = () => {
         <div className=" md:flex items-center">
           <div className="md:w-[478px]">
             <div className="pill">
-              برايم لايڤ لخدمات الذكاء الاصطناعي والتسويق الرقمي
+              أتون لايڤ لخدمات الذكاء الاصطناعي والتسويق الرقمي
             </div>
             <h1 className="h2-style leading-relaxed">
-              فضاء رقمي آمن ومفيد يتوائم مع تطلعاتنا وقيمنا برايم لايڤة
+              فضاء رقمي آمن ومفيد يتوائم مع تطلعاتنا وقيمنا أتون لايڤة
             </h1>
             <p className="paragraph leading-relaxed">
               نحن شركة متخصصة في التسويق الرقمي والاستثمار، ونعمل على تطوير

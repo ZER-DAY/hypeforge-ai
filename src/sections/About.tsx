@@ -35,14 +35,14 @@ export default function About() {
         {/* العنوان الرئيسي */}
         <div className="text-center mb-10">
           <h1 className="text-4xl font-bold text-blue-600">
-            <span className="italic">برايم لايڤ</span> - حلول المستقبل الذكية
+            <span className="italic">أتون لايڤ</span> - حلول المستقبل الذكية
           </h1>
         </div>
 
         {/* الوصف الموسع */}
         <div className="bg-white p-6 rounded shadow text-center mb-10">
           <p className="text-gray-600 text-lg">
-            تقدم <span className="font-bold text-blue-600">برايم لايڤ</span>{" "}
+            تقدم <span className="font-bold text-blue-600">أتون لايڤ</span>{" "}
             خدمات متكاملة في البرمجة، التسويق الرقمي، وتطوير الحلول الذكية. نحن
             نساعد الشركات على تحقيق النمو عبر التحول الرقمي المبتكر، ونوفر أحدث
             التقنيات لضمان نجاح المشاريع الرقمية. رؤيتنا هي بناء عالم رقمي أكثر
