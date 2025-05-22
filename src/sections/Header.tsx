@@ -24,7 +24,7 @@ export const Header = () => {
       {/* الجزء العلوي من الهيدر */}
       <div className="flex justify-center items-center py-2 bg-[#1A1A1A] text-white text-sm gap-2">
         <p className="text-white/80 hidden md:block">
-          إنطلق نحو مستقبل مشرق مع وكالة أتون لايڤ، حيث نبني معًا خطواتك الأولى
+          إنطلق نحو مستقبل مشرق مع وكالة برايم لايڤ، حيث نبني معًا خطواتك الأولى
           نحو النجاح والتطور
         </p>
         <Link href="join-our-agency">
